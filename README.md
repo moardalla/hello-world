@@ -1,2 +1,5 @@
 # hello-world
-Just another repo
+
+Hey all,
+
+Marcus here. Just playing around with git
